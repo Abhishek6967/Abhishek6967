@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Majumder</h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Web+Developer;I+am+Passionate+to+learn+new+things;)](https://git.io/typing-svg)
+
+
+
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek6967&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek6967" /> </p>
