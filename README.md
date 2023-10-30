@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌐+Web+Developer+seeking+new+challenge;🚀+Passionate+to+learn+new+things;💻+Full+stack+and+coding+enthusiast)](https://git.io/typing-svg)
-<br>🌱  I am currently pursuing my B.Tech in CSE at NIT Sikkim<br>🔭 I’m currently working on Full stack Development<br>💬 Ask me about MERN<br>👯 I’m looking to collaborate on Web Development based projects<br>⚡ Fun fact I like to play cricket
+<br>🌱  I am currently pursuing my B.Tech in CSE at NIT Sikkim<br>🔭 I’m currently working on Full Stack Development<br>💬 Ask me about MERN<br>👯 I’m looking to collaborate on Web Development based projects<br>⚡ Fun fact I like to play cricket
 
 
 ## 🌐 Socials:
